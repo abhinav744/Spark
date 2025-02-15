@@ -1,9 +1,9 @@
-⚡ Spark
+# ⚡ Spark
 
 Spark is a project built using cutting-edge technologies to deliver high performance and scalability.
 
 
-🚀 Features
+## 🚀 Features
 
 🔥 High-performance architecture
 
@@ -13,7 +13,7 @@ Spark is a project built using cutting-edge technologies to deliver high perform
 
 🔐 Secure and efficient
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Backend: Node.js / Express / Python / Java (Specify your stack)
 
@@ -23,7 +23,7 @@ Database: MongoDB / PostgreSQL / MySQL
 
 Other Tools: Docker, Kubernetes, CI/CD Pipelines (If used)
 
-📁 Project Structure
+## 📁 Project Structure
 
 
 /Spark
@@ -40,21 +40,21 @@ Other Tools: Docker, Kubernetes, CI/CD Pipelines (If used)
 
 │── README.md          # Documentation
 
-🚀 Installation & Setup
+## 🚀 Installation & Setup
 
-Clone the repository
+### Clone the repository
 
 
 git clone https://github.com/abhinav744/Spark.git
 
 cd Spark
 
-Install dependencies
+### Install dependencies
 
 
 npm install  # or pip install -r requirements.txt (for Python)
 
-Set up environment variables
+### Set up environment variables
 
 
 
@@ -62,12 +62,12 @@ Create a .env file and add necessary configurations.
 
 
 
-Start the server
+### Start the server
 
 
 npm start  # or python main.py (for Python projects)
 
-📌 Contributing
+## 📌 Contributing
 
 Contributions are welcome! Feel free to:
 
