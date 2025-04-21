@@ -9,19 +9,15 @@ Spark is a project built using cutting-edge technologies to deliver high perform
 
 🛠 Scalable and modular codebase
 
-💾 Database integration (if applicable)
-
 🔐 Secure and efficient
 
 ## 🛠 Tech Stack
 
-Backend: Node.js / Express / Python / Java (Specify your stack)
+Backend: Java
 
-Frontend: React.js / Vue.js / HTML, CSS, JavaScript (If applicable)
+Frontend: React.js
 
-Database: MongoDB / PostgreSQL / MySQL
-
-Other Tools: Docker, Kubernetes, CI/CD Pipelines (If used)
+Database: MongoDB
 
 ## 📁 Project Structure
 
